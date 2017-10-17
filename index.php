@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div id=head>
-		Friend-Finder
+		Friend-finder
 	</div>
 	<div id="left" onmouseenter="expand()" onmouseleave="restore()">
 		<button class="box" id="leftbox" onclick="location.href='find.php';">
